@@ -43,6 +43,3 @@ To use YouTube Video QnA, follow these steps:
 - LangChain Python library: [LangChain Documentation](https://python.langchain.com)
 - Other dependencies specified in the provided links for loaders, splitters, vector stores, and retrievers.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
